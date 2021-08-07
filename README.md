@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevNima-PG
-- 👀 I’m interested in <programming></programming>
-- 🌱 I’m currently learning C#, Js
+- 👀 I’m interested in programming and Space.
+- 🌱 I’m currently learning C#, Js, Sql
 
 <!---
 DevNima-PG/DevNima-PG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
