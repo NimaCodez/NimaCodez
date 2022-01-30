@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevNima-PG
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C#, Js, Sql
+- 🌱 I’m currently learning C#, Js, Py
 - Visit Https://foodygoodsshopp.netlify.app | just a Practice.:)
 - Currently Working On TeenCoders Institute.
 <!---
