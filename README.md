@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @DevNima-PG
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Js, C#
+- 🌱 I’m currently learning Js, Node.js, Express.js
 - 👁  Visit Https://foodygoods.netlify.app | just a React Practice.:)~
 - ✨ Currently Working On TeenCoders Institute.
 - 🧨 Join Our Teenage comunity in Telegram :) => https://t.me/BaxCoders
-- Https://foodygoodsshopp.netlify.app => Just HTML & Css practice :)~
 - Https://fortnitestore.netlify.app => Just a React Practice :)~ | Responsive from 235px 😎
 <!---
 DevNima-PG/DevNima-PG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
