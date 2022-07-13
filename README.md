@@ -1,5 +1,9 @@
-- 👋 <h2 align="center">Hi, I’m @DevNima-PG<h2>
-- 👀 I’m interested in programming.
+<h2 align="center">Hi, I’m @DevNima-PG 👋</h2>
+  <h3>I’m interested in</h3>
+  <ul>
+    <li> programming. </li>
+  </ul>
+ 
 - 🌱 I’m currently learning Js, Node.js, Express.js
 - 👁  Visit Https://foodygoods.netlify.app | just a React Practice.:)~
 - ✨ Currently Working On TeenCoders Institute.
