@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevNima-PG
+- 👋 <h2 align="center">Hi, I’m @DevNima-PG<h2>
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Js, Node.js, Express.js
 - 👁  Visit Https://foodygoods.netlify.app | just a React Practice.:)~
