@@ -1,7 +1,9 @@
 <h2 align="center">Hi, I’m @DevNima-PG 👋</h2>
   <h3>I’m interested in</h3>
   <ul>
-    <li> programming. </li>
+    <li> Programming. </li>
+    <li> Back-end Development. </li>
+    <li> Science & Vscode 😂. </li>
   </ul>
  
 - 🌱 I’m currently learning Js, Node.js, Express.js
