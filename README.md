@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JS, NodeJS, ExpressJS, NestJS**
 
-- 📫 How to reach me? Gmail: **nimacodes@gmail.com** | Telegram: **@NimaCodes**
+- 📫 How to reach me? Gmail: **nimacodes@gmail.com** | Telegram: **[@NimaCodes](https://t.me/NimaCodes)**
 
 - ⚡ Fun fact: **I Really love challenges and Math.**
 
